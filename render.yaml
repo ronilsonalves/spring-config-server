@@ -1,0 +1,5 @@
+services:
+  - type: pserv
+    name: spring-config-server
+    plan: free
+    env: docker
